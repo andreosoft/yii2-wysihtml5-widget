@@ -1,1 +1,1 @@
-# yii2-summernote-widget
+# yii2-wysihtml5-widget
