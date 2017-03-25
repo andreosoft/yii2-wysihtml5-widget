@@ -15,7 +15,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower/wysihtml5": "*"
+        "bower-asset/wysihtml5": "*"
     },
     "autoload": {
         "psr-4": {
